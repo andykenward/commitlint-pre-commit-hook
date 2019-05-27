@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "A pre-commit hook for commitlint",
   "main": "index.js",
-  "repository": "https://github.com/alessandrojcm/commitlint-pre-commit-hook.git",
-  "author": "Alessandro Cuppari <alessandrojcuppari@gmail.com>",
+  "repository": "https://github.com/andykenward/commitlint-pre-commit-hook.git",
+  "author": "Andy Kenward <hello@andykenward.com>",
   "license": "MIT",
   "bin": {
     "commitlint": "./node_modules/@commitlint/cli/lib/cli.js"
   },
   "dependencies": {
-    "@commitlint/cli": "^7.0.0"
+    "@commitlint/cli": "^8.0.0"
   }
 }
